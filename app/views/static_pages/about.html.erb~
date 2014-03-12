@@ -1,11 +1,5 @@
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Ruby on Rails Tutorial Sample App | About us</title>
-  </head>
-  <body>
+<% provide(:title,'About us') %>
     <h1>About us</h1>
   <p>hhh</p>
-  </body>
-</html>
+ 
